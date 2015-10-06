@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.authors                   =  [ 'Asher' ]
   spec.email                     =  'asher@ridiculouspower.com'
-  spec.homepage                  =  'http://rubygems.org/gems/gem-loaded'
+  spec.homepage                  =  'https://github.com/RidiculousPower/gem-loaded'
 
   # just because we use it as an example
   spec.add_development_dependency   'module-cluster'
